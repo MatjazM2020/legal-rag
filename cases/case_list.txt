@@ -1,0 +1,54 @@
+# Each line: case name as it appears on HUDOC (used for title search)
+# Lines starting with # are ignored
+# Priority pilot cases (first 5) are marked with [PILOT]
+
+Guzzardi v. Italy
+Loizidou v. Turkey  [PILOT]
+Banković and Others v. Belgium and Others
+Al-Skeini and Others v. the United Kingdom
+Güzelyurtlu and Others v. Cyprus and Turkey
+Cyprus v. Turkey
+Nachova and Others v. Bulgaria  [PILOT]
+Timurtaş v. Turkey
+Šilih v. Slovenia
+Blečić v. Croatia
+Šubinski v. Slovenia
+Lukenda v. Slovenia  [PILOT]
+Henryk Urban and Ryszard Urban v. Poland
+Campbell and Fell v. the United Kingdom
+Engel and Others v. the Netherlands
+Öztürk v. Germany
+Flisar v. Slovenia
+O'Halloran and Francis v. the United Kingdom
+Imbrioscia v. Switzerland
+Salduz v. Turkey  [PILOT]
+Dvorski v. Croatia
+Ibrahim and Others v. the United Kingdom
+Al-Khawaja and Tahery v. the United Kingdom
+Funke v. France
+Saunders v. the United Kingdom
+Navone and Others v. Monaco
+Bavčar v. Slovenia
+Švarc and Kavnik v. Slovenia
+Morice v. France
+Xero Flor w Polsce sp. z o.o. v. Poland
+Chahal v. the United Kingdom  [PILOT]
+Saadi v. Italy
+M.A. v. France
+El-Masri v. the former Yugoslav Republic of Macedonia
+Kafkaris v. Cyprus
+Vinter and Others v. the United Kingdom
+Ramirez Sanchez v. France
+D. v. the United Kingdom
+Paposhvili v. Belgium
+Assenov and Others v. Bulgaria
+Costello-Roberts v. the United Kingdom
+A. v. the United Kingdom
+Z. and Others v. the United Kingdom
+Medvedyev and Others v. France
+Lawless v. Ireland
+S., V. and A. v. Denmark
+Bosphorus Hava Yolları Turizm ve Ticaret Anonim Şirketi v. Ireland
+Matthews v. the United Kingdom
+United Communist Party of Turkey and Others v. Turkey
+Prince Hans-Adam II of Liechtenstein v. Germany
